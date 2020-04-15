@@ -10,7 +10,7 @@ class Home extends Controller{
     }
     function Show(){
         echo 'Home -show';
-        echo 'test';
+        echo 'test 2';
     }
 }
 ?> 
