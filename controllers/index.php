@@ -7,8 +7,9 @@ class Index extends Controller {
 	}
 	
 	function index() {
+	    $data['page']='front/index/index';
         $data['slide'] = $this->model->getSlide();
-		$this->view->render('front/index/index',$data);
+		$this->view->render('front/main',$data);
 	}
 	
 	function details() {
