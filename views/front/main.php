@@ -71,7 +71,7 @@
                     </div>
                     <div class="col-xs-10 text-right menu-1">
                         <ul>
-                            <li><a href="<?php URL.'index'?>">Home</a></li>
+                            <li class="<?php if($data['page']=='front/index/index') echo 'active'  ; ?> "><a href="<?= URL.'index'?>">Home</a></li>
 <!--                            <li class="has-dropdown">-->
 <!--                                <a href="tours.html">Tours</a>-->
 <!--                                <ul class="dropdown">-->
@@ -81,8 +81,8 @@
 <!--                                    <li><a href="#">Booking</a></li>-->
 <!--                                </ul>-->
 <!--                            </li>-->
-                            <li class="active"><a href="<?= URL.'hotels'?>">Hotels</a></li>
-                            <li><a href="<?= URL.'services'?>">Services</a></li>
+                            <li class="<?php if($data['page']=='front/holtels/index') echo 'active'  ; ?>"><a href="<?= URL.'hotels'?>">Hotels</a></li>
+                            <li class="<?php if($data['page']=='front/services/index') echo 'active'  ; ?>"><a href="<?= URL.'services'?>">Services</a></li>
                             <li><a href="blog.html">Blog</a></li>
                             <li><a href="about.html">About</a></li>
                             <li><a href="contact.html">Contact</a></li>

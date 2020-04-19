@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="51ba4953-65c4-4e15-af53-5dce8d06fadf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/Bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Bootstrap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/front/index/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/front/index/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/front/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/front/main.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +54,9 @@
       <option name="presentableId" value="Default" />
       <updated>1586944277127</updated>
       <workItem from="1586944278943" duration="3961000" />
-      <workItem from="1587034427791" duration="5640000" />
+      <workItem from="1587034427791" duration="7174000" />
+      <workItem from="1587139205967" duration="108000" />
+      <workItem from="1587269770689" duration="1949000" />
     </task>
     <servers />
   </component>
@@ -66,13 +64,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1586955315506">
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1587139311268">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1586955315506" />
-    <state x="517" y="292" key="NewPhpFileDialog" timestamp="1587037986870">
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1587139311267" />
+    <state x="517" y="292" key="NewPhpFileDialog" timestamp="1587271920775">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="517" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1587037986870" />
+    <state x="517" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1587271920775" />
   </component>
 </project>
