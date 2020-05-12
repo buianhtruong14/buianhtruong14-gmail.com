@@ -13,6 +13,7 @@
     </execution>
   </component>
   <component name="ProjectId" id="1Y3YATfuPJJxppF6KkAFr9Jgk6c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,7 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/xampp/htdocs/workzema" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workzema" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,6 +43,7 @@
       <updated>1582172601738</updated>
       <workItem from="1582172603815" duration="456000" />
       <workItem from="1582181786672" duration="1459000" />
+      <workItem from="1588784807174" duration="7000" />
     </task>
     <servers />
   </component>
@@ -57,9 +59,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582182321771" />
-    <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1582181843057">
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1588784806956">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582181843057" />
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588784806956" />
   </component>
 </project>

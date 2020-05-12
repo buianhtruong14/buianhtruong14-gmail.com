@@ -8,7 +8,7 @@ class Index_Model extends Model {
 
     public function getSlide()
     {
-        $result = $this->db->selectAll("SELECT * FROM slide");
+        $result = $this->db->selectAll("SELECT * FROM slide WHERE status = 'active'");
         return $result;
     }
 
